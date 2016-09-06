@@ -1,10 +1,13 @@
 {
   "applinks": {
     "apps": [],
-    "details":
+    "details": [
       {
         "appID": "LZ3QQZJ5LH.com.kwippit.mobileuniversallinks",
-        "paths": [ "*", "/" ]
+        "paths": [
+          "*"
+        ]
       }
+    ]
   }
 }
